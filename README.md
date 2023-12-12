@@ -1,4 +1,4 @@
-# asean-data-science-2020
+# Asean Data Science Explorer 2020
 Data Science Project for ASEAN Industrial &amp; Education 4.0 using SAP By National Finalist Team Brocalypse.
 ## ABOUT THIS PROJECT
 In the dedication to the industrial era and the educational era of the ASEAN countries, we are here to provide the analysis of data regarding
